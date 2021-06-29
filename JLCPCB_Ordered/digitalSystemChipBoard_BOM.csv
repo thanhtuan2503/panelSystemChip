@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+22pF,"C0,C1",Capacitor_SMD:C_0603_1608Metric,C105620
+0.1uF,"C2,C3",Capacitor_SMD:C_0603_1608Metric,C14663
+Conn_01x10_Female,"J0,J1,J2,J3",Connector_PinHeader_2.00mm:PinHeader_1x10_P2.00mm_Vertical,
+1M,R0,Resistor_SMD:R_0603_1608Metric,C26098
+47k,R1,Resistor_SMD:R_0603_1608Metric,C25819
+ATmega1284P-AU,U0,Package_QFP:TQFP-44_10x10mm_P0.8mm,C33575
+CH340B,U1,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,C81010
+ICSP,U2,digitalSystemBoard:ICSP_no_solder,
+16MHz,Y0,Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm,C112586
